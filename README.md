@@ -1,18 +1,12 @@
 # Installation Guide
 
-[Azure CLI](#Install-Azure-CLI) 
-
-[Azure Kubernetes Service](#Azure-Kubernetes-Service)
-
-[Ansible](#Install-Ansible)
-
-[Docker](#Install-Docker)
-
-[Docker Compose](#Install-Docker-Compose)
-
-[Jenkins](#Install-Jenkins)
-
-[Terraform](#Install-Terraform)
+* _[Azure CLI](#Install-Azure-CLI)_ 
+* _[Azure Kubernetes Service](#Azure-Kubernetes-Service)_
+* _[Ansible](#Install-Ansible)_
+* _[Docker](#Install-Docker)_
+* _[Docker Compose](#Install-Docker-Compose)_
+* _[Jenkins](#Install-Jenkins)_
+* _[Terraform](#Install-Terraform)_
 
 
 # Install Azure CLI
