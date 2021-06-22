@@ -1,11 +1,12 @@
 # Installation Guide
 
-* [Azure Kubernetes Service]
+* [Azure CLI](#Install-Azure-CLI)
 * [Application](#application)
 * [Pipeline](#pipeline)
 * [Pipeline Components](#pipeline-components)
 * [Conclusion](#conclusion)
 # Install Azure CLI
+
 
 ``curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash``
 
